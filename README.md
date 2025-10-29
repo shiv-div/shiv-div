@@ -1,9 +1,10 @@
 # 👋 Hi there, I'm Shivam Sharma
 
+🔰 **Trainee at Accenture**
 🎓 **B.Tech in Computer Science Engineering (Data Science)**  
 📍 LNCT Group of Colleges, Bhopal  
 🗓️ Graduated: June 2025  
-📊 **CGPA:** 7.98  
+📊 **CGPA:** 7.97
 🧑‍✈️ Ex- NCC Under Officer at LNCTE
 
 ---
