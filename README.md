@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Shivam Sharma
 
-🔰 **Trainee at Accenture**
+🔰 **Trainee at Accenture**  
 🎓 **B.Tech in Computer Science Engineering (Data Science)**  
 📍 LNCT Group of Colleges, Bhopal  
 🗓️ Graduated: June 2025  
